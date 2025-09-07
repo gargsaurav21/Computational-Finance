@@ -13,12 +13,11 @@ This repository includes:
   - Extended examples and visualizations  
 
 ### 📚 Course Content
-The video series walks through:
+The lecture number is stated as the first letter of the notebook:
 
-1. Introduction and Overview of Asset Classes  
 2. Stocks, Options, and Stochastic Processes  
 3. Option Pricing and Simulation in Python  
-4. Implied Volatility  
+4. Implied Volatility
 5. Jump Processes  
 6. Affine Jump Diffusion Models  
 7. Stochastic Volatility Models  
