@@ -1,6 +1,6 @@
 # ComputationalFinance Repository
 
-Welcome to the **ComputationalFinance** repository! This collection contains Python code inspired by the **ComputationalFinance** course on YouTube by Lech. 
+Welcome to the **ComputationalFinance** repository! This collection contains Python code inspired by the **Computational Finance** course on YouTube by Lech Grzelak. 
 
 ### 📌 About
 This repository includes:
@@ -11,4 +11,4 @@ This repository includes:
 This project serves as a hands-on learning tool to enhance understanding of financial computation techniques in Python. Whether you're following the course or expanding your knowledge, this repository aims to be a valuable resource.
 
 ### 📢 Acknowledgments
-A huge thank you to **Lech** for the fantastic **ComputationalFinance** course, which has been an incredible learning journey!
+A huge thank you to **Lech Grzelak** for the fantastic **Computational Finance** course, which has been an incredible learning journey!
