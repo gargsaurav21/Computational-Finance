@@ -1,31 +1,42 @@
 # ComputationalFinance Repository
 
-Welcome to the **ComputationalFinance** repository! This collection contains Python code inspired by the **Computational Finance** course on YouTube by Lech Grzelak. 
+Welcome to the **ComputationalFinance** repository—a hands-on companion to Lech Grzelak’s **Computational Finance** YouTube course. This collection unifies his original Python scripts with enriched notebooks that deepen your understanding of financial models and numerical methods.
 
 ### 📌 About
-This repository includes:
-- **Original course code** from Lech (either identical or slightly modified).
-- **Additional files** created for deeper exploration, featuring detailed explanations and mathematical derivations at the top of each script.
+This repository includes:  
+- **Lech’s Original Code**  
+  Authentic scripts (either identical or lightly refactored) directly from the course.  
+- **Enhanced Notebooks & Scripts**  
+  Supplementary files featuring:
+  - Clear mathematical derivations at the top of each notebook  
+  - Inline commentary linking theory to code  
+  - Extended examples and visualizations  
 
-#### Content of the course:
+### 📚 Course Content
+The video series walks through:
 
-Lecture 1- Introduction and Overview of Asset Classes \\
-Lecture 2- Stock, Options and Stochastics \\
-Lecture 3- Option Pricing and Simulation in Python \\
-Lecture 4- Implied Volatility \\
-Lecture 5- Jump Processes \\
-Lecture 6- Affine Jump Diffusion Processes \\
-Lecture 7- Stochastic Volatility Models \\
-Lecture 8- Fourier Transformation for Option Pricing \\
-Lecture 9- Monte Carlo Simulation \\ 
-Lecture 10- Monte Carlo Simulation of the Heston Model \\
-Lecture 11- Hedging and Monte Carlo Greeks \\
-Lecture 12- Forward Start Options and Model of Bates \\
-Lecture 13- Exotic Derivatives \\
-Lecture 14- Summary \\
+1. Introduction and Overview of Asset Classes  
+2. Stocks, Options, and Stochastic Processes  
+3. Option Pricing and Simulation in Python  
+4. Implied Volatility  
+5. Jump Processes  
+6. Affine Jump Diffusion Models  
+7. Stochastic Volatility Models  
+8. Fourier Transform Methods for Option Pricing  
+9. Monte Carlo Simulation Techniques  
+10. Monte Carlo Simulation of the Heston Model  
+11. Hedging and Monte Carlo Greeks  
+12. Forward Start Options and the Bates Model  
+13. Exotic Derivatives  
+
+### 🚀 Key Features
+- Lecture-aligned notebooks with **Enhanced Insight** sections  
+- Step-by-step derivations 
+- Advanced Python implementations
+- Interactive charts illustrating model behavior under varying parameters
 
 ### 🎯 Purpose
-This project serves as a hands-on learning tool to enhance understanding of financial computation techniques in Python. Whether you're following the course or expanding your knowledge, this repository aims to be a valuable resource.
+To serve as a practical learning resource, bridging theory and code for students, researchers, and practitioners exploring computational finance with Python.
 
 ### 📢 Acknowledgments
-A huge thank you to **Lech Grzelak** for the fantastic **Computational Finance** course, which has been an incredible learning journey!
+Huge thanks to **Lech Grzelak** for creating the **Computational Finance** lecture series and sharing all original code. This repository builds upon his invaluable work.
