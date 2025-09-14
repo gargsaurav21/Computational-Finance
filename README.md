@@ -1,16 +1,22 @@
-# ComputationalFinance Repository
+# ComputationalFinance Repository  
 
-Welcome to the **ComputationalFinance** repository—a hands-on companion to Lech Grzelak’s **Computational Finance** YouTube course. This collection unifies his original Python scripts with enriched notebooks that deepen your understanding of financial models and numerical methods.
+A collection of quantitative finance models and numerical methods in Python, developed as an extension of Lech Grzelak’s Computational Finance course.  
 
-### 📌 About
-This repository includes:  
-- **Lech’s Original Code**  
-  Authentic scripts (either identical or lightly refactored) directly from the course.  
-- **Enhanced Notebooks & Scripts**  
-  Supplementary files featuring:
-  - Clear mathematical derivations at the top of each notebook  
-  - Inline commentary linking theory to code  
-  - Extended examples and visualizations  
+🔹 Combines original scripts with **enhanced Jupyter notebooks** that add:  
+- Clear mathematical derivations for key models  
+- Inline commentary linking theory to trading/risk applications  
+- Extended examples and interactive visualizations  
+
+📈 Topics covered include:  
+- Option pricing and simulation  
+- Implied volatility and jump processes  
+- Stochastic volatility and affine models  
+- Fourier transform methods for derivatives pricing  
+- Monte Carlo simulations (Heston, Bates)  
+- Greeks and hedging techniques  
+- Exotic derivatives  
+
+🎯 **Purpose**: To bridge theory and practical implementation, providing a resource for traders, risk managers, and quants exploring computational finance with Python.  
 
 ### 📚 Course Content
 The lecture number is stated as the first letter of the notebook:
@@ -33,9 +39,6 @@ The lecture number is stated as the first letter of the notebook:
 - Step-by-step derivations 
 - Advanced Python implementations
 - Interactive charts illustrating model behavior under varying parameters
-
-### 🎯 Purpose
-To serve as a practical learning resource, bridging theory and code for students, researchers, and practitioners exploring computational finance with Python.
 
 ### 📢 Acknowledgments
 Huge thanks to **Lech Grzelak** for creating the **Computational Finance** lecture series and sharing all original code. This repository builds upon his invaluable work.
